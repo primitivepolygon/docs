@@ -8,6 +8,6 @@
 
 You can now start developing with Index Framework.
 
-> We recommend looking at our [PUT LINK HERE Example Map]() to learn the aspects of Index Framework.
+> We recommend downloading our [Crowbar Demonstration Map](https://raw.githubusercontent.com/primitivepolygon/primitivepolygon.github.io/places/CrowbarDemonstration.rbxl) to learn how an Index Framework map functions.
 
-[Plugin Overview](/ifw/2_plugin_overview)
+Next: [Editor Overview](/ifw/2_editor_overview)
