@@ -29,3 +29,5 @@ return Module
 ```
 
 Upon walking into the trigger, the NPC should follow the path you planned out. If it doesn't work, check the output for errors.
+
+Next: [Weapons](/ifw/7_weapons)

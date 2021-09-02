@@ -6,4 +6,5 @@
   * [4. Building](/ifw/4_building.md)
   * [5. Props](/ifw/5_props.md)
   * [6. NPCs](/ifw/6_npcs.md)
+  * [7. Weapons](/ifw/7_weapons.md)
   * [Coming soon...](/ifw/comingsoon.md)
